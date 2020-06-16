@@ -14,14 +14,13 @@ code {
 
 .container {
   max-width: 100% !important;
-  padding: 0 !important;
+  padding: 16px !important;
 }
 
 .title {
   color: white;
   font-size: 36px;
   text-align: center;
-  padding-top: 48px;
 }
 
 .small-spinner {
